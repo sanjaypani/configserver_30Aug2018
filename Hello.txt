@@ -1,1 +1,3 @@
 name = sanjay
+name=pranay
+name=reethika
