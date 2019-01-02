@@ -1,5 +1,4 @@
 name = sanjay
 name = reetu
 name = pranay
-This is reetu
 
